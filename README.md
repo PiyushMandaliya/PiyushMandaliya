@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm an iOS Developer.
 
-- 🔭 I’m currently working on MyMoney. It's my personal iOS App. <a href="https://github.com/PiyushMandaliya/MyMoney">More Details</a> <br>
+- 🔭 I’m currently working on MyMoney. It's my personal iOS App. For more information <a href="https://github.com/PiyushMandaliya/MyMoney">click here</a> <br>
 - 🌱 I’m currently learning Swift/SwiftUI<br>
 - 💬 Ask me about Anything<br>
 - 🤔 I’m looking for help with learning SwiftUI<br>
